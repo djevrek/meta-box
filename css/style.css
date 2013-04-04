@@ -12,6 +12,10 @@
 .rwmb-label {
 	width: 24%;
 }
+}
+.rwmb-label label {
+	cursor: default;
+}
 /* 75% if field has label, 100% if no label */
 .rwmb-input {
 	width: 100%;
