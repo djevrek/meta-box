@@ -2,7 +2,7 @@
 
 ***
 
-## Contributors
+## Contributors x2
 
 - [Tran Ngoc Tuan Anh a.k.a Rilwis](http://www.deluxeblogtips.com/) - Initial & lead developer
 - [Franz Josef Kaiser](http://unserkaiser.com)
